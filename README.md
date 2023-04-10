@@ -6,3 +6,4 @@ I'm Morgan, a front-end developer and recent bootcamp graduate located in Calgar
 🌱 I’m currently learning more about UX design and Figma
 💬 Ask me about my experience with React and Vue.js or my favorite front-end design principles.
 💌 Let's connect - reach out to me at morganjoanlloyd@gmail.com
+ 
